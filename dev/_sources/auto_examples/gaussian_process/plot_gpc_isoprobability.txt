@@ -1,0 +1,18 @@
+
+
+.. _example_gaussian_process_plot_gpc_isoprobability.py:
+
+
+=================================================================
+Iso-probability lines for Gaussian Processes classification (GPC)
+=================================================================
+
+A two-dimensional classification example showing iso-probability lines for
+the predicted probabilities.
+
+
+**Python source code:** :download:`plot_gpc_isoprobability.py <plot_gpc_isoprobability.py>`
+
+.. literalinclude:: plot_gpc_isoprobability.py
+    :lines: 12-
+    
